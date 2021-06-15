@@ -1,4 +1,27 @@
+# Glossary of Techical Terms
 
+<hr style="color: blue;"><br>
+
+<span style="font-size: 140%;">Table of Contents</span>
+
+- [Glossary of Techical Terms](#glossary-of-techical-terms)
+  - [API: Application Programming Interface](#api-application-programming-interface)
+  - [API vs Webhook](#api-vs-webhook)
+  - [Composite API](#composite-api)
+  - [cURL](#curl)
+  - [DOM](#dom)
+  - [Internal API (Private API)](#internal-api-private-api)
+  - [JSON-RPC](#json-rpc)
+  - [Open API (Public API)](#open-api-public-api)
+  - [Partner API](#partner-api)
+  - [REST API](#rest-api)
+  - [SOAP API](#soap-api)
+  - [Web API](#web-api)
+  - [Webhook](#webhook)
+  - [Webhook APIs](#webhook-apis)
+  - [Webhook Endpoint](#webhook-endpoint)
+  - [Web Service](#web-service)
+  - [XML-RPC](#xml-rpc)
 ## API: Application Programming Interface
 
 <small><i>APIs are application interfaces, meaning that one application is able to interact with another application in a standardized way.</i></small>
